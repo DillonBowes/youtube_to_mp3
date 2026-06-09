@@ -2,7 +2,7 @@
 youtube link to mp3 converter 
 
 1. DOWNLOAD YT-DLP
-[<YT_DLP>](<(https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe)>)
+[<YT_DLP>](<https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe>)
 3. PASTE THE FOLLOWING INTO NOTEPAD AND SAVE AS A ".bat" FILE AND SAVE TO DESKTOP
 4. ENSURE THAT DESTINATION FILE IS REPLACED IN THE CODE BELOW
 
